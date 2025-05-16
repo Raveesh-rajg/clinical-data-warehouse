@@ -31,17 +31,30 @@ clinical-data-warehouse/
 └── README.md
 
 
+TO RUN:
 
- How to Run
+Step 1: Install Required Packages
+---------------------------------
+1. Open Command Prompt (Windows) or Terminal (Mac/Linux).
 
-1. Install Dependencies
+2. Navigate to the extracted project folder. Example:
+   cd Desktop/clinical-data-warehouse
 
-pip install -r requirements.txt
+3. Run the following command:
+   pip install -r requirements.txt
 
-2. Launch the GUI
-From your project root:
+(This will install all required Python libraries - matplotlib and pillow.)
 
- - python -m src.ui 
+
+Step 3: Run the Application
+---------------------------
+1. In the same terminal window, type:
+   python -m src.ui
+
+2. This will launch the login interface of the application.
+
+3. Use any credentials from the file:
+   data/Credentials.csv
 
 
 ## Role-Based Features
