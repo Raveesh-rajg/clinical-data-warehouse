@@ -46,7 +46,7 @@ Step 1: Install Required Packages
 (This will install all required Python libraries - matplotlib and pillow.)
 
 
-Step 3: Run the Application
+Step 2: Run the Application
 ---------------------------
 1. In the same terminal window, type:
    python -m src.ui
