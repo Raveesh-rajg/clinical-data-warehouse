@@ -32,7 +32,7 @@ clinical-data-warehouse/
 
 
 
-## ▶ How to Run
+ How to Run
 
 1. Install Dependencies
 
@@ -44,29 +44,38 @@ From your project root:
  - python -m src.ui 
 
 
- Role-Based Features
- 
- Role	Features:
--Admin	Count number of patient visits on a selected date
--Clinician/Nurse	Add/remove/retrieve patients, attach notes, export data to CSV
--Management	View visit trends by year and generate/save bar chart
+## Role-Based Features
+Role	Features
+Admin	Count the number of patient visits on a specific date
+Clinician/Nurse	Add, remove, and retrieve patient records; attach clinical notes; export data to CSV
+Management	Visualize yearly visit trends; generate and save bar chart as visits_by_year.png
 
- Data Management:
+## Data Management
+All core patient and note data is stored in the data/ folder.
 
--All core patient and note data is stored in the data/ folder.
--Exported patient records and charts are saved to outputs/.
--Role-based actions are GUI-driven and CSV-based for portability.
--All file paths are relative (cross-platform compatible).
+Exported patient records and charts are saved in the outputs/ folder.
 
- Notes:
+All operations are GUI-driven using role-specific access.
 
--Designed using Tkinter for intuitive GUI layout
--Object-oriented structure using Patient, Visit, Note classes
--Clean project organization for easy understanding and grading
+File paths are relative for full cross-platform compatibility.
 
- Developed With
+Login actions are tracked in outputs/usage_log.csv.
+
+## Design Notes
+Developed with Tkinter to provide a clean, user-friendly GUI.
+
+Follows object-oriented principles with Patient, Visit, and Note classes.
+
+Maintains modular code organization for easier grading, readability, and scalability.
+
+## Built With
 Python 3.x
-Tkinter (GUI)
-Matplotlib (Charts)
-CSV (for structured data)
-Pillow (Image rendering)
+
+Tkinter – for GUI interfaces
+
+Matplotlib – for data visualizations
+
+Pillow – for image rendering
+
+CSV module – for structured file-based data handling
+
