@@ -1,0 +1,197 @@
+Patient_ID,Visit_ID,Visit_time,Department,Complaint,Gender,Race,Age,Ethnicity,Insurance,Zip_code,Note_ID
+16755,591642,7/13/2011,Emergency department,infection,Non-binary,Pacific Islanders,67,Hispanic,Not Available,53449,675629
+16755,890528,6/13/2016,Obstetrics and gynaecology,back pain,Non-binary,Pacific Islanders,62,Hispanic,Not Available,53449,956118
+16758,165876,6/8/2018,Surgery,chest pain,Female,Black,81,Hispanic,Medicare,53634,575754
+16758,118326,2/10/2007,Cardiology,infection,Female,Black,92,Hispanic,Medicare,53634,859881
+28617,843435,7/12/2005,Emergency department,fatigue,Male,Unknown,69,Non-Hispanic,Blueshield,53540,791338
+28617,347907,5/19/2009,Radiology,back pain,Male,Unknown,65,Non-Hispanic,Blueshield,53540,403256
+29447,337654,4/20/2023,Pediatrics,Unknown,Female,Black,75,Non-Hispanic,Blueshield,53802,681159
+29447,296075,7/17/2012,Cardiology,chest pain,Female,Black,86,Non-Hispanic,Blueshield,53802,120406
+42952,84507,5/18/2014,Pediatrics,chest pain,Male,Asian,80,Unknown,Medicare,53293,457649
+42952,657415,4/10/2020,Pediatrics,fatigue,Male,Asian,74,Unknown,Medicare,53293,256899
+50194,500834,9/10/2014,Pediatrics,infection,Male,Black,70,Unknown,Not Available,53352,46366
+50194,276638,5/30/2022,Surgery,bleeding,Male,Black,62,Unknown,Not Available,53352,511842
+58133,962934,7/6/2007,Head and Neck,fatigue,Male,Native Americans,94,Other,Unknown,53196,661621
+58133,718200,10/10/2005,Psychiatry,injury,Male,Native Americans,96,Other,Unknown,53196,671748
+68490,156571,9/2/2020,Pediatrics,back pain,Non-binary,White,2,Other,Unknown,53232,553201
+68490,599776,11/9/2011,Pediatrics,fatigue,Non-binary,White,11,Other,Unknown,53232,733358
+71722,678825,5/27/2017,Cardiology,infection,Female,Pacific Islanders,46,Other,Not Available,53374,608638
+71722,476387,12/17/2021,Radiology,infection,Female,Pacific Islanders,41,Other,Not Available,53374,494312
+79711,365995,7/5/2016,Neorology,bleeding,Male,Asian,55,Hispanic,Medicaid,53724,50046
+79711,958097,12/20/2017,Obstetrics and gynaecology,back pain,Male,Asian,54,Hispanic,Medicaid,53724,715566
+87870,341323,4/11/2004,Pediatrics,infection,Female,Black,9,Other,Unknown,53291,294247
+87870,653319,4/3/2011,Pediatrics,infection,Female,Black,2,Other,Unknown,53291,674740
+124373,787715,7/19/2023,Pediatrics,infection,Female,Asian,3,Unknown,Unknown,53196,545734
+124373,488802,4/2/2014,Pediatrics,fatigue,Female,Asian,12,Unknown,Unknown,53196,745943
+128405,362899,10/24/2012,Neorology,injury,Non-binary,White,66,Non-Hispanic,Medicare,53577,816983
+128405,372054,11/28/2019,Neorology,chest pain,Non-binary,White,59,Non-Hispanic,Medicare,53577,942395
+146681,37115,11/11/2000,Obstetrics and gynaecology,bleeding,Non-binary,Pacific Islanders,82,Unknown,Medicare,53491,59395
+146681,635063,1/20/2010,Pediatrics,Unknown,Non-binary,Pacific Islanders,73,Unknown,Medicare,53491,762144
+161867,775655,4/5/2019,Obstetrics and gynaecology,back pain,Male,White,54,Other,Unknown,53085,913819
+161867,519179,2/8/2018,Obstetrics and gynaecology,bleeding,Male,White,55,Other,Unknown,53085,277173
+172573,900289,6/8/2005,Surgery,bleeding,Male,Native Americans,92,Non-Hispanic,Blueshield,53187,226288
+172573,108607,12/1/2021,Psychiatry,chest pain,Male,Native Americans,76,Non-Hispanic,Blueshield,53187,509456
+202319,40119,8/7/2012,Psychiatry,bleeding,Female,Unknown,100,Non-Hispanic,Unknown,53121,893237
+202319,755927,10/23/2009,Emergency department,chest pain,Female,Unknown,103,Non-Hispanic,Unknown,53121,867258
+203718,91136,8/1/2006,Pediatrics,bleeding,Female,White,1,Non-Hispanic,Medicare,53123,816293
+216501,449631,7/7/2010,Head and Neck,infection,Non-binary,Pacific Islanders,73,Other,Unknown,53907,195751
+216501,183822,3/11/2018,Neorology,bleeding,Non-binary,Pacific Islanders,65,Other,Unknown,53907,999861
+250132,113474,10/17/2017,Cardiology,fatigue,Male,Pacific Islanders,96,Non-Hispanic,Medicaid,53717,244157
+250132,149706,9/2/2009,Emergency department,bleeding,Male,Pacific Islanders,104,Non-Hispanic,Medicaid,53717,615699
+254301,99200,12/19/2018,Pediatrics,infection,Non-binary,Pacific Islanders,81,Non-Hispanic,Blueshield,53393,531165
+254301,126630,9/20/2000,Emergency department,Unknown,Non-binary,Pacific Islanders,99,Non-Hispanic,Blueshield,53393,311058
+255289,406681,10/23/2012,Psychiatry,chest pain,Non-binary,Pacific Islanders,28,Unknown,Blueshield,53974,272022
+255289,578604,7/7/2008,Cardiology,bleeding,Non-binary,Pacific Islanders,32,Unknown,Blueshield,53974,786045
+264872,211115,12/24/2012,Head and Neck,Unknown,Female,White,63,Hispanic,Not Available,53048,445895
+264872,629314,8/20/2014,Psychiatry,bleeding,Female,White,61,Hispanic,Not Available,53048,875957
+288543,353887,9/16/2002,Pediatrics,injury,Male,Native Americans,12,Other,Medicaid,53611,57315
+288543,878623,5/28/2001,Pediatrics,chest pain,Male,Native Americans,13,Other,Medicaid,53611,105176
+289368,763886,12/3/2020,Head and Neck,bleeding,Female,Pacific Islanders,24,Other,Unknown,53662,444433
+289368,360768,6/19/2014,Emergency department,injury,Female,Pacific Islanders,30,Other,Unknown,53662,538751
+294687,87509,9/15/2002,Surgery,bleeding,Non-binary,Native Americans,84,Hispanic,Blueshield,53130,534010
+294687,696189,6/8/2001,Cardiology,injury,Non-binary,Native Americans,85,Hispanic,Blueshield,53130,221263
+297103,746445,9/18/2005,Psychiatry,bleeding,Non-binary,Unknown,83,Other,Medicaid,53892,772110
+297103,763139,8/28/2021,Pediatrics,fatigue,Non-binary,Unknown,67,Other,Medicaid,53892,865599
+307800,496614,5/11/2005,Pediatrics,Unknown,Male,Asian,13,Other,Medicaid,53694,261312
+307800,547702,4/20/2002,Pediatrics,fatigue,Male,Asian,16,Other,Medicaid,53694,569095
+307975,11826,12/19/2007,Radiology,fatigue,Non-binary,Asian,18,Other,Blueshield,53997,580541
+307975,132940,10/13/2014,Pediatrics,fatigue,Non-binary,Asian,11,Other,Blueshield,53997,795831
+315313,254146,12/21/2014,Emergency department,chest pain,Male,Unknown,75,Other,Blueshield,53104,283866
+315313,533123,5/16/2006,Cardiology,infection,Male,Unknown,84,Other,Blueshield,53104,984004
+319919,230076,3/23/2015,Pediatrics,chest pain,Female,Pacific Islanders,6,Hispanic,Medicare,53970,131533
+319919,401569,12/18/2017,Pediatrics,chest pain,Female,Pacific Islanders,3,Hispanic,Medicare,53970,996589
+320742,815465,8/21/2012,Psychiatry,infection,Non-binary,Pacific Islanders,62,Unknown,Unknown,53234,533564
+320742,920632,12/21/2011,Obstetrics and gynaecology,bleeding,Non-binary,Pacific Islanders,63,Unknown,Unknown,53234,378809
+331827,104920,9/15/2009,Psychiatry,Unknown,Female,White,71,Non-Hispanic,Medicare,53900,393183
+331827,629818,11/25/2022,Cardiology,infection,Female,White,58,Non-Hispanic,Medicare,53900,305542
+361166,847569,5/14/2006,Emergency department,Unknown,Non-binary,Black,63,Non-Hispanic,Medicare,53247,753031
+361166,959192,8/14/2018,Radiology,back pain,Non-binary,Black,51,Non-Hispanic,Medicare,53247,125824
+383077,155958,6/26/2014,Emergency department,chest pain,Female,Unknown,71,Non-Hispanic,Blueshield,53224,256573
+383077,720132,10/16/2009,Radiology,bleeding,Female,Unknown,76,Non-Hispanic,Blueshield,53224,853063
+384335,301142,8/11/2020,Neorology,back pain,Female,Asian,32,Non-Hispanic,Unknown,53793,3840
+384335,795991,8/11/2010,Pediatrics,infection,Female,Asian,42,Non-Hispanic,Unknown,53793,336142
+400396,473161,4/28/2008,Head and Neck,bleeding,Male,Native Americans,77,Non-Hispanic,Unknown,53872,184895
+400396,306201,5/9/2011,Obstetrics and gynaecology,chest pain,Male,Native Americans,74,Non-Hispanic,Unknown,53872,365759
+403558,726891,7/14/2002,Neorology,Unknown,Male,Native Americans,80,Non-Hispanic,Medicaid,53205,250781
+403558,145911,11/5/2015,Cardiology,back pain,Male,Native Americans,67,Non-Hispanic,Medicaid,53205,857818
+411645,342659,10/14/2002,Pediatrics,back pain,Male,Black,9,Hispanic,Medicaid,53908,251652
+411645,723441,5/17/2008,Pediatrics,fatigue,Male,Black,3,Hispanic,Medicaid,53908,471471
+411840,412416,11/5/2011,Radiology,Unknown,Female,Black,44,Non-Hispanic,Unknown,53551,657419
+411840,632583,6/17/2002,Radiology,fatigue,Female,Black,53,Non-Hispanic,Unknown,53551,209168
+418439,942204,5/25/2019,Cardiology,fatigue,Male,Black,81,Hispanic,Not Available,53626,260268
+418439,394486,3/11/2022,Pediatrics,chest pain,Male,Black,78,Hispanic,Not Available,53626,152134
+427495,334502,6/19/2022,Pediatrics,Unknown,Female,Native Americans,3,Hispanic,Medicare,53187,643976
+427495,885538,8/8/2013,Pediatrics,chest pain,Female,Native Americans,12,Hispanic,Medicare,53187,274875
+435048,604112,7/20/2009,Pediatrics,Unknown,Male,Unknown,2,Hispanic,Medicare,53165,319306
+442472,43930,1/27/2019,Obstetrics and gynaecology,injury,Male,Native Americans,69,Unknown,Medicaid,53242,445911
+442472,887584,6/7/2022,Psychiatry,back pain,Male,Native Americans,66,Unknown,Medicaid,53242,660102
+455040,808133,11/4/2005,Psychiatry,Unknown,Male,Black,47,Non-Hispanic,Not Available,53373,102874
+455040,380360,4/25/2013,Head and Neck,injury,Male,Black,40,Non-Hispanic,Not Available,53373,500351
+465541,484587,5/20/2001,Neorology,injury,Non-binary,Unknown,88,Hispanic,Medicare,53769,358959
+465541,557964,10/11/2021,Obstetrics and gynaecology,infection,Non-binary,Unknown,68,Hispanic,Medicare,53769,470641
+465712,644114,10/2/2007,Emergency department,Unknown,Male,Pacific Islanders,57,Other,Unknown,53164,556122
+465712,525593,9/23/2015,Emergency department,injury,Male,Pacific Islanders,49,Other,Unknown,53164,448135
+473704,59381,1/6/2013,Pediatrics,fatigue,Female,White,17,Unknown,Medicare,53252,485993
+473704,588554,10/29/2003,Obstetrics and gynaecology,fatigue,Female,White,26,Unknown,Medicare,53252,387968
+474486,45765,4/5/2020,Head and Neck,bleeding,Female,Pacific Islanders,91,Non-Hispanic,Blueshield,53030,256448
+474486,767303,7/30/2010,Radiology,Unknown,Female,Pacific Islanders,101,Non-Hispanic,Blueshield,53030,288846
+488070,540784,12/27/2017,Cardiology,chest pain,Female,White,52,Hispanic,Blueshield,53070,860462
+488070,962126,7/21/2005,Neorology,chest pain,Female,White,64,Hispanic,Blueshield,53070,700665
+491988,14354,12/26/2002,Pediatrics,infection,Male,Native Americans,12,Unknown,Blueshield,53426,521908
+491988,684839,9/25/2008,Pediatrics,injury,Male,Native Americans,6,Unknown,Blueshield,53426,337328
+492225,742926,12/25/2022,Radiology,Unknown,Female,Black,58,Other,Blueshield,53186,851130
+492225,445989,6/19/2019,Neorology,chest pain,Female,Black,62,Other,Blueshield,53186,353790
+516289,195104,10/5/2008,Surgery,injury,Female,Black,48,Hispanic,Medicare,53582,662580
+516289,315077,9/1/2011,Radiology,Unknown,Female,Black,45,Hispanic,Medicare,53582,928425
+558317,15691,1/27/2021,Pediatrics,bleeding,Female,Asian,2,Hispanic,Not Available,53943,712212
+558317,204126,6/13/2011,Pediatrics,back pain,Female,Asian,12,Hispanic,Not Available,53943,531229
+598428,167332,5/21/2002,Radiology,back pain,Male,Pacific Islanders,69,Hispanic,Blueshield,53751,832123
+598428,728281,12/28/2016,Emergency department,infection,Male,Pacific Islanders,54,Hispanic,Blueshield,53751,167652
+600392,484638,9/22/2014,Head and Neck,fatigue,Female,Asian,76,Unknown,Medicaid,53872,786761
+600392,962794,6/17/2019,Head and Neck,infection,Female,Asian,71,Unknown,Medicaid,53872,146227
+609360,151564,12/18/2010,Emergency department,injury,Male,Pacific Islanders,100,Unknown,Not Available,53116,527774
+609360,587295,4/17/2002,Emergency department,injury,Male,Pacific Islanders,109,Unknown,Not Available,53116,951448
+610235,331487,12/12/2000,Psychiatry,injury,Non-binary,White,21,Hispanic,Not Available,53121,6315
+610235,478330,1/1/2022,Pediatrics,back pain,Non-binary,White,0,Hispanic,Not Available,53121,544106
+613714,686805,4/15/2013,Cardiology,back pain,Male,Asian,72,Hispanic,Blueshield,53681,334821
+613714,360365,6/21/2009,Pediatrics,infection,Male,Asian,76,Hispanic,Blueshield,53681,958916
+616491,848685,7/18/2015,Pediatrics,back pain,Non-binary,Native Americans,24,Other,Medicare,53896,264091
+616491,544255,12/24/2022,Pediatrics,back pain,Non-binary,Native Americans,17,Other,Medicare,53896,350898
+627644,426360,2/10/2010,Psychiatry,back pain,Non-binary,Native Americans,85,Non-Hispanic,Medicare,53151,831722
+627644,569145,4/25/2012,Radiology,chest pain,Non-binary,Native Americans,83,Non-Hispanic,Medicare,53151,366055
+631439,551704,2/19/2016,Head and Neck,fatigue,Female,White,42,Other,Medicare,53992,676585
+631439,717265,11/5/2014,Neorology,bleeding,Female,White,43,Other,Medicare,53992,538228
+632514,166125,7/8/2006,Surgery,chest pain,Female,Asian,36,Unknown,Medicaid,53844,241039
+632514,999884,11/17/2006,Radiology,fatigue,Female,Asian,36,Unknown,Medicaid,53844,590240
+634917,675192,3/2/2011,Obstetrics and gynaecology,injury,Female,Asian,83,Non-Hispanic,Not Available,53673,168700
+634917,118717,7/14/2022,Head and Neck,injury,Female,Asian,72,Non-Hispanic,Not Available,53673,531118
+640135,275683,4/5/2007,Pediatrics,injury,Female,Black,16,Non-Hispanic,Not Available,53004,941168
+640135,976614,8/1/2006,Pediatrics,bleeding,Female,Black,17,Non-Hispanic,Not Available,53004,372366
+645950,45017,9/11/2021,Cardiology,Unknown,Female,Native Americans,88,Other,Medicaid,53220,531589
+645950,227309,9/19/2018,Cardiology,injury,Female,Native Americans,91,Other,Medicaid,53220,987736
+696539,531622,7/20/2020,Psychiatry,injury,Non-binary,Native Americans,64,Unknown,Medicare,53896,555974
+696539,821646,4/9/2018,Surgery,back pain,Non-binary,Native Americans,66,Unknown,Medicare,53896,964140
+701399,643126,8/10/2009,Neorology,back pain,Male,Asian,47,Unknown,Medicare,53933,630509
+701399,490877,12/28/2009,Psychiatry,chest pain,Male,Asian,47,Unknown,Medicare,53933,509532
+714903,214970,3/22/2003,Pediatrics,chest pain,Non-binary,White,7,Hispanic,Unknown,53216,5715
+714903,319700,8/21/2003,Pediatrics,infection,Non-binary,White,7,Hispanic,Unknown,53216,191428
+723096,322687,1/18/2007,Head and Neck,back pain,Non-binary,White,68,Unknown,Medicaid,53461,856280
+723096,265625,9/11/2016,Cardiology,back pain,Non-binary,White,58,Unknown,Medicaid,53461,700491
+761145,231793,6/15/2017,Psychiatry,infection,Female,Pacific Islanders,93,Hispanic,Unknown,53779,339
+761145,975688,12/1/2006,Obstetrics and gynaecology,injury,Female,Pacific Islanders,104,Hispanic,Unknown,53779,641306
+767335,217164,6/11/2005,Head and Neck,Unknown,Female,Unknown,49,Hispanic,Unknown,53373,948086
+767335,758777,8/26/2019,Pediatrics,injury,Female,Unknown,35,Hispanic,Unknown,53373,232961
+772533,719705,9/28/2007,Radiology,chest pain,Female,Native Americans,52,Non-Hispanic,Medicaid,53813,666580
+772533,776765,2/21/2004,Radiology,chest pain,Female,Native Americans,56,Non-Hispanic,Medicaid,53813,761304
+775699,99533,4/18/2010,Cardiology,fatigue,Male,Pacific Islanders,68,Unknown,Medicare,53804,892579
+775699,796649,10/13/2006,Pediatrics,chest pain,Male,Pacific Islanders,72,Unknown,Medicare,53804,442206
+776038,436659,9/11/2004,Head and Neck,injury,Female,Unknown,39,Other,Blueshield,53506,382328
+776038,658321,11/22/2021,Pediatrics,back pain,Female,Unknown,22,Other,Blueshield,53506,597749
+797624,983319,8/26/2011,Pediatrics,infection,Non-binary,Black,3,Hispanic,Medicare,53681,625844
+807114,218091,10/12/2010,Surgery,bleeding,Male,Black,75,Unknown,Blueshield,53604,590938
+807114,592626,5/21/2020,Emergency department,chest pain,Male,Black,65,Unknown,Blueshield,53604,142978
+816248,558370,10/15/2004,Head and Neck,chest pain,Non-binary,Native Americans,31,Non-Hispanic,Blueshield,53936,203193
+816248,844303,4/19/2002,Head and Neck,infection,Non-binary,Native Americans,33,Non-Hispanic,Blueshield,53936,804790
+828582,907946,3/1/2005,Pediatrics,bleeding,Male,Asian,17,Non-Hispanic,Not Available,53835,887460
+828582,488367,7/6/2016,Pediatrics,Unknown,Male,Asian,6,Non-Hispanic,Not Available,53835,129433
+832410,79871,4/9/2016,Pediatrics,chest pain,Female,White,19,Hispanic,Medicare,53033,856164
+832410,753730,5/12/2000,Obstetrics and gynaecology,injury,Female,White,35,Hispanic,Medicare,53033,356157
+833506,651417,3/12/2003,Pediatrics,back pain,Male,Pacific Islanders,2,Other,Not Available,53774,982515
+833506,532393,3/24/2004,Pediatrics,Unknown,Male,Pacific Islanders,1,Other,Not Available,53774,290481
+841998,489557,2/22/2002,Radiology,injury,Non-binary,Unknown,39,Hispanic,Not Available,53353,173292
+841998,345694,10/1/2017,Obstetrics and gynaecology,chest pain,Non-binary,Unknown,23,Hispanic,Not Available,53353,252221
+842169,772130,1/10/2012,Radiology,chest pain,Non-binary,Unknown,74,Hispanic,Not Available,53706,822830
+842169,598394,5/18/2013,Obstetrics and gynaecology,infection,Non-binary,Unknown,73,Hispanic,Not Available,53706,527328
+871623,255108,10/3/2001,Pediatrics,fatigue,Male,Unknown,12,Non-Hispanic,Blueshield,53964,869118
+871623,353937,2/23/2001,Pediatrics,bleeding,Male,Unknown,13,Non-Hispanic,Blueshield,53964,372010
+879757,53671,12/8/2018,Surgery,Unknown,Non-binary,White,53,Hispanic,Medicare,53864,455309
+879757,332093,5/6/2019,Psychiatry,Unknown,Non-binary,White,53,Hispanic,Medicare,53864,131154
+890409,848239,12/16/2021,Pediatrics,injury,Male,White,72,Unknown,Unknown,53691,625699
+890409,899720,10/4/2018,Cardiology,infection,Male,White,75,Unknown,Unknown,53691,631424
+895414,615655,11/18/2012,Surgery,injury,Male,Asian,87,Other,Not Available,53753,753602
+895414,534184,11/29/2024,Obstetrics and gynaecology,fatigue,Male,Asian,75,Other,Not Available,53753,881342
+896478,519085,10/19/2004,Obstetrics and gynaecology,infection,Male,White,24,Non-Hispanic,Unknown,53354,787205
+896478,514232,8/8/2020,Pediatrics,Unknown,Male,White,8,Non-Hispanic,Unknown,53354,959416
+912126,692219,12/28/2015,Pediatrics,infection,Non-binary,Pacific Islanders,13,Other,Not Available,53547,640007
+912126,349434,7/28/2010,Radiology,fatigue,Non-binary,Pacific Islanders,18,Other,Not Available,53547,635201
+912417,627974,9/5/2002,Radiology,back pain,Non-binary,Black,28,Non-Hispanic,Unknown,53473,545764
+912417,687262,9/22/2000,Head and Neck,fatigue,Non-binary,Black,30,Non-Hispanic,Unknown,53473,417231
+917816,518277,9/2/2022,Head and Neck,Unknown,Non-binary,Pacific Islanders,92,Non-Hispanic,Medicaid,53274,115509
+917816,451664,12/6/2002,Psychiatry,back pain,Non-binary,Pacific Islanders,112,Non-Hispanic,Medicaid,53274,120597
+925841,583271,1/7/2004,Neorology,back pain,Non-binary,Black,43,Non-Hispanic,Not Available,53559,902256
+925841,926835,10/22/2018,Obstetrics and gynaecology,Unknown,Non-binary,Black,28,Non-Hispanic,Not Available,53559,760348
+926837,114284,6/14/2006,Head and Neck,chest pain,Female,Pacific Islanders,45,Unknown,Unknown,53919,223439
+926837,746247,9/26/2013,Surgery,fatigue,Female,Pacific Islanders,38,Unknown,Unknown,53919,964900
+931213,557175,3/20/2016,Head and Neck,bleeding,Male,White,63,Unknown,Blueshield,53642,77627
+931213,680884,3/22/2022,Pediatrics,infection,Male,White,57,Unknown,Blueshield,53642,336478
+938437,41823,8/25/2008,Obstetrics and gynaecology,chest pain,Female,Native Americans,55,Non-Hispanic,Not Available,53070,894771
+938437,107942,7/20/2005,Head and Neck,chest pain,Female,Native Americans,58,Non-Hispanic,Not Available,53070,348493
+954495,608427,1/1/2019,Emergency department,infection,Male,Black,44,Hispanic,Blueshield,53159,438071
+954495,894263,7/31/2008,Neorology,fatigue,Male,Black,54,Hispanic,Blueshield,53159,822605
+955517,169698,12/11/2015,Cardiology,infection,Non-binary,Unknown,60,Hispanic,Not Available,53062,840735
+955517,718370,6/29/2021,Psychiatry,chest pain,Non-binary,Unknown,54,Hispanic,Not Available,53062,110222
+961234,748628,5/6/2011,Pediatrics,Unknown,Female,White,12,Other,Not Available,53214,834238
+965888,521393,4/28/2001,Pediatrics,Unknown,Male,Black,51,Unknown,Medicare,53609,792947
+965888,671696,12/21/2003,Surgery,Unknown,Male,Black,48,Unknown,Medicare,53609,763372
+992758,587636,10/19/2014,Pediatrics,back pain,Male,Pacific Islanders,8,Other,Blueshield,53587,496457
+7930F780,06912B2B,2025-05-16,EMR,pain,M,White,56,Hispanic,Medicare,53211,70859B
