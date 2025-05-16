@@ -33,7 +33,7 @@ def load_notes_data(file_path="data/Notes.csv"):
     with open(file_path, newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            notes_dict[str(row["Note_ID"])] = row["Note_text"]
+            notes_dict[row["Note_ID"]] = row["Note_text"]
     return notes_dict
 
 def add_patient(patients, file_path="data/Patient_data.csv", patient_id=None, column_order=None):
