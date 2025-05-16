@@ -137,28 +137,27 @@ class ClinicianUI:
         messagebox.showinfo("Patient Details", "\n".join(info_lines))
 
     def view_note(self):
-        visit_id = simpledialog.askstring("View Note", "Enter Visit ID:")
-        if not visit_id:
-            return
+    visit_id = simpledialog.askstring("View Note", "Enter Visit ID:")
+    if not visit_id:
+        return
 
-        visit_id = visit_id.strip().upper()
+    visit_id = visit_id.strip().upper()
 
-        for patient in self.patients.values():
-            for visit in patient.visits:
-                if visit.visit_id.upper() == visit_id:
-                    if visit.note and (visit.note.note_text or visit.note.note_id):
-                        note = visit.note
-                        messagebox.showinfo(
-                            "Note Details",
-                            f"Note ID: {note.note_id}\n"
-                            f"Note Type: {note.note_type}\n"
-                            f"Note Text:\n{note.note_text}"
-                        )
-                        return
-                    else:
-                        messagebox.showinfo("No Note", f"No note attached to visit {visit_id}")
-                        return
-        messagebox.showerror("Not Found", f"No visit found with ID: {visit_id}")
+    for patient in self.patients.values():
+        for visit in patient.visits:
+            if str(visit.visit_id).upper() == visit_id:
+                note = visit.note
+                note_text = self.notes_dict.get(note.note_id, "Note text not found.")
+                messagebox.showinfo(
+                    "Note Details",
+                    f"Note ID: {note.note_id}\n"
+                    f"Note Type: {note.note_type}\n\n"
+                    f"Note Text:\n{note_text}"
+                )
+                return
+
+    messagebox.showerror("Not Found", f"No visit found with ID: {visit_id}")
+
 
     def save_to_file(self):
         import csv
