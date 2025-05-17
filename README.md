@@ -1,4 +1,4 @@
-# 🏥 Clinical Data Warehouse System
+ # 🏥 Clinical Data Warehouse System
 
  **HI 741 – Essential Programming for Health Informatics**  
 By **Raveesh Raj Grandhi** | Date: 2025-05-05
@@ -37,8 +37,9 @@ Step 1: Install Required Packages
 ---------------------------------
 1. Open Command Prompt (Windows) or Terminal (Mac/Linux).
 
-2. Navigate to the extracted project folder. Example:
-   cd Desktop/clinical-data-warehouse
+2. Navigate to the extracted project folder. 
+   ## Example:
+     cd Desktop/clinical-data-warehouse
 
 3. Run the following command:
    pip install -r requirements.txt
@@ -49,7 +50,7 @@ Step 1: Install Required Packages
 Step 2: Run the Application
 ---------------------------
 1. In the same terminal window, type:
-   python -m src.ui
+   ## python -m src.ui
 
 2. This will launch the login interface of the application.
 
